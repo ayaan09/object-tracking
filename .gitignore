@@ -1,0 +1,11 @@
+
+
+# Ignore files with a specific extension
+*.xlsx
+*.pt
+*.MOV
+*.weights
+*.txt
+# Ignore files in a specific directory
+videos/
+runs/
